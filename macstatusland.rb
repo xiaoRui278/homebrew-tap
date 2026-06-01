@@ -1,6 +1,6 @@
 cask "macstatusland" do
   version "1.0.0"
-  sha256 "bcf3edf6c53ba875eaa9588dba76ebbbe7410b0b85cf3a5d2cd4441e67423eac"
+  sha256 "9f2b58a326569c0b1d22788bd25268a14ac944f6d2ca28b9c6e6853baf49dbad"
 
   url "https://github.com/xiaoRui278/mac-status-land/releases/download/v#{version}/MacStatusLand-v#{version}.dmg"
   name "MacStatusLand"
